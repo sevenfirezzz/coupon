@@ -10,5 +10,6 @@ public class MechantsApplication {
         SpringApplication.run(MechantsApplication.class, args);
     }
 
+    //this is a test for git push
 
 }
